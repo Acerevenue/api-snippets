@@ -12,3 +12,4 @@ call = @client.calls.create(
     from: "+15017122661",
     url: "http://demo.twilio.com/docs/voice.xml")
 puts call.to
+make_call.rb
